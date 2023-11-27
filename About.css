@@ -1,0 +1,16 @@
+.para-text{
+    color: white;
+    padding: 10px;
+}
+.logo-img-pho{
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    padding: 20px;
+
+}
+.about-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

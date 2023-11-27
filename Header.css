@@ -1,0 +1,28 @@
+.header-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo-img{
+    height: 80px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.header-list-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    padding: 15px;
+}
+.style-link{
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    border-width: 0cap;
+    color: black;
+}

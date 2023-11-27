@@ -1,0 +1,13 @@
+.connect-heading{
+    color: aliceblue;
+    text-align: center;
+}
+.social-ion{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+}
+.ion{
+    margin: 10px;
+}

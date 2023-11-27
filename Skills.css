@@ -1,0 +1,22 @@
+.img-skill{
+    height: 150px;
+    width: 150px;
+}
+.heading-skills{
+    color: white;
+    padding: 10px;
+    
+}
+.skills-container{
+    padding: 20px;
+}
+.skills-cont-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.heading-skills-center{
+    color: white;
+    padding: 10px;
+    text-align: center;
+}

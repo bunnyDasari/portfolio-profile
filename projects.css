@@ -1,0 +1,16 @@
+.color-heading{
+    color: white;
+    text-align: center;
+}
+.todo-img{
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    border-radius: 30px;
+    padding: 20px;
+}
+.project-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
